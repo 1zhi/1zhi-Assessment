@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 壹志测评</title>
-    <link>/categories/</link>
+    <link>https://assessment.1zhi.io/categories/</link>
     <description>Recent content in Categories on 壹志测评</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assessment.1zhi.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
